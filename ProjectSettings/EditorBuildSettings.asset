@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Prototype0/Scenes/GlobleScene.unity
+    guid: 818b529b9d7dcc2489c507891278da0c
+  - enabled: 0
+    path: Assets/_Prototype0/Scenes/TestScene.unity
+    guid: 1d21e66c100054c47a388d482610366a
+  - enabled: 0
+    path: Assets/_Prototype0/Scenes/BossScene.unity
+    guid: 489a6f355bd567d4f8ec01ff4076469b
+  - enabled: 0
+    path: Assets/_PrototypeX/BuildTest.unity
+    guid: 2710c9e7675f0a1498dab0cebc423b08
+  - enabled: 1
+    path: Assets/_PrototypeX/UnityPhysicsTest.unity
+    guid: 918c7d28006064744bebc45853374370
+  m_configObjects: {}

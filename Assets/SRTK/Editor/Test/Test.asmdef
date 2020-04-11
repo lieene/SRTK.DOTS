@@ -1,0 +1,32 @@
+{
+    "name": "Test",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Entities",
+        "Unity.Jobs",
+        "Unity.Entities.Hybrid",
+        "Unity.Burst",
+        "Unity.Transforms",
+        "Unity.Rendering.Hybrid",
+        "SRTK",
+        "SRTK.Generic"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,29 @@
+{
+    "name": "SRTK",
+    "references": [
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:8a2eafa29b15f444eb6d74f94a930e1d",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:8819f35a0fc84499b990e90a4ca1911f",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:44dcb2bf5b9be4b5aa76674c8edcd1d5",
+        "GUID:7a450cf7ca9694b5a8bfa3fd83ec635a",
+        "GUID:aeea07f5bc88f0148adf90a533ec5975",
+        "GUID:48982bc54db3d8d4bb19b994b0b91fe7",
+        "GUID:5f3cf485eb0554709a8abbeace890c86",
+        "GUID:6c5ce0edf2115d747a1d738a9640bcaf",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:bb8983e278bde074f873a6cafce0f2cc"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
